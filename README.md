@@ -3,15 +3,11 @@
 <div style="display: flex; align-items: center; justify-content: space-between;">
   <div>
     <p align="left">
-      🚀 Passionate Software Developer exploring <b>Full Stack Development, Machine Learning, and Data Analytics</b>.<br>
-      🔍 Currently working on <b>building web applications & optimizing ML models</b>.<br>
-      🤝 Open to <b>collaborations on AI/ML, web dev, and analytics projects</b>.<br>
-      📚 Learning <b>advanced JavaScript frameworks, deep learning, and big data processing</b>.<br>
-      💡 Fun fact: I love <b>solving complex problems & staying ahead of tech trends</b>.
+      🌱 I'm currently working on: Building full-stack applications and exploring machine learning models.<br><br>👥 I'm looking to collaborate on: Web development projects, AI/ML applications, and data analytics initiatives.<br><br>🤝 I'm looking for help with: Improving machine learning model performance and backend optimization.<br><br>🌿 I'm currently learning: Advanced JavaScript frameworks, deep learning techniques, and big data processing.<br><br>💬 Ask me about: Web development, backend architectures, and AI/ML fundamentals.<br><br>⚡ Fun fact: I enjoy solving complex problems with code and always explore the latest tech trends!
     </p>
   </div>
   <div>
-    <img src="https://camo.githubusercontent.com/4f3203cca1b4b077a3f5b173d85ef905f5873e26f1bece444c3c61585c8ca99b/68747470733a2f2f6d656469612e74656e6f722e636f6d2f476653582d753756474d3441414141432f636f64696e672e676966" width="350"/>
+    <img src="https://camo.githubusercontent.com/4f3203cca1b4b077a3f5b173d85ef905f5873e26f1bece444c3c61585c8ca99b/68747470733a2f2f6d656469612e74656e6f722e636f6d2f476653582d753756474d3441414141432f636f64696e672e676966" width="550"/>
   </div>
 </div>
 
