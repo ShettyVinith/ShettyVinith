@@ -1,15 +1,26 @@
-<h1 align="center">Hi 👋, I'm Vinith Shetty</h1>
+<h1 align="center">👋 Hey there, I'm Vinith Shetty</h1>
 
 <div style="display: flex; align-items: center; justify-content: space-between;">
   <div>
     <p align="left">
-      🌱 I'm currently working on: Building full-stack applications and exploring machine learning models.<br><br>👥 I'm looking to collaborate on: Web development projects, AI/ML applications, and data analytics initiatives.<br><br>🤝 I'm looking for help with: Improving machine learning model performance and backend optimization.<br><br>🌿 I'm currently learning: Advanced JavaScript frameworks, deep learning techniques, and big data processing.<br><br>💬 Ask me about: Web development, backend architectures, and AI/ML fundamentals.<br><br>⚡ Fun fact: I enjoy solving complex problems with code and always explore the latest tech trends!
+      🚀 <strong>Currently Engineering:</strong> Full-stack applications leveraging modern JavaScript frameworks, scalable backend services, and deploying experimental machine learning models for data-driven insights.<br><br>
+      
+      🤝 <strong>Open to Collaborations:</strong> Web platform development, AI/ML pipelines, blockchain integrations, and scalable data engineering solutions.<br><br>
+      
+      🛠️ <strong>Seeking Expertise In:</strong> Optimizing deep learning architectures, backend infrastructure scaling, and efficient database management strategies.<br><br>
+      
+      📚 <strong>Continuous Learning:</strong> Advanced TypeScript, Next.js patterns, decentralized technologies, and distributed big data systems (Hadoop, Spark).<br><br>
+      
+      💬 <strong>Technical Interests:</strong> System design, API-first development, containerized deployments, AI model optimization, and real-time data streaming architectures.<br><br>
+      
+      ⚡ <strong>Fun Fact:</strong> Passionate about architecting reliable, scalable systems — and I regularly dive into emerging frameworks and experimental tech stacks!
     </p>
   </div>
   <div>
     <img src="https://camo.githubusercontent.com/4f3203cca1b4b077a3f5b173d85ef905f5873e26f1bece444c3c61585c8ca99b/68747470733a2f2f6d656469612e74656e6f722e636f6d2f476653582d753756474d3441414141432f636f64696e672e676966" width="650"/>
   </div>
 </div>
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_vinith_shetty) 
