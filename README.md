@@ -1,4 +1,5 @@
 <h1 align="center">👋 Hey there, I'm Vinith Shetty</h1>
+![](https://komarev.com/ghpvc/?username=ShettyVinith&color=brightgreen&styl=plastic)
 
 <p align="center">
   <img src="https://camo.githubusercontent.com/4f3203cca1b4b077a3f5b173d85ef905f5873e26f1bece444c3c61585c8ca99b/68747470733a2f2f6d656469612e74656e6f722e636f6d2f476653582d753756474d3441414141432f636f64696e672e676966" width="650"/>
