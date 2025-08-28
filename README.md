@@ -55,6 +55,18 @@
 
 
 ---
+## 🚀 Highlight Projects  
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| [✨ Streamify – Chat & Video App](https://github.com/ShettyVinith/Streamify) | Fullstack real-time chat & video calling platform with language-learning focus, featuring authentication, notifications, and 32 UI themes. | React, Tailwind, Zustand, Node.js, Express, MongoDB, Stream API |
+| [🌱 Crop Recommendation System](https://github.com/ShettyVinith/Crop_Recommendation_System) | ML-based system that recommends the most suitable crop to grow based on soil nutrients & climate parameters. | Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn |
+| [📦 Product Management System](https://github.com/ShettyVinith/Product-Management) | Web app for managing products, categories, inventory, sales & generating PDF reports, built using MVC architecture. | Java (JSP, Servlets), MySQL, JDBC, Tomcat |
+
+
+
+
+---
 
 ### 📊 GitHub Stats  
 
