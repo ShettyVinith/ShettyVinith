@@ -1,9 +1,12 @@
 <h1 align="center">Hey there 👋, I'm Vinith Shetty</h1>
-<h3 align="center">Final-Year CSE Student @ AIET | Java Developer | AI & Cloud Explorer</h3>
+<h3 align="center">Final-Year CSE Student @ AIET | Full Stack Developer | AI & Blockchain Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%7C+Java+Enthusiast;Exploring+AI+%26+Cloud+☁️;Passionate+about+Networking+%26+System+Design;Always+Learning+%2B+Building+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=💻+Full-Stack+Developer;🤖+AI+%26+Cloud+Explorer☁️;🔗+Passionate+about+Blockchain;🚀+Always+Learning+%2B+Building" alt="Typing SVG" />
 </p>
+
+
+
 
 
 ---
@@ -12,7 +15,7 @@
 
 - 🎓 Final-year **Computer Science & Engineering** student at **AIET**.  
 - 💻 Strong in **Java, Full-Stack Development, and Problem Solving**.  
-- 🔍 Interested in **AI, Cloud, and Networking** — aiming for a role like **Network Analyst / Cloud Engineer**.  
+- 🔍 Interested in **AI, Cloud, and Blockchain**.  
 - 🌱 Currently learning **DSA in Java, React, and Cloud Computing (AWS/GCP)**.  
 - 🛠️ Enjoy building **real-world projects** that solve practical problems.  
 - 📂 Check out my work here → [GitHub Repositories](https://github.com/vinithshetty9372?tab=repositories).  
