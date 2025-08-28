@@ -5,6 +5,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=💻+Full-Stack+Developer;🤖+AI+%26+Cloud+Explorer☁️;🔗+Passionate+about+Blockchain;🚀+Always+Learning+%2B+Building" alt="Typing SVG" />
 </p>
 
+<p align="center"> <img src="https://camo.githubusercontent.com/4f3203cca1b4b077a3f5b173d85ef905f5873e26f1bece444c3c61585c8ca99b/68747470733a2f2f6d656469612e74656e6f722e636f6d2f476653582d753756474d3441414141432f636f64696e672e676966" width="650"/> </p>
+
 
 
 
@@ -18,7 +20,7 @@
 - 🔍 Interested in **AI, Cloud, and Blockchain**.  
 - 🌱 Currently learning **DSA in Java, React, and Cloud Computing (AWS/GCP)**.  
 - 🛠️ Enjoy building **real-world projects** that solve practical problems.  
-- 📂 Check out my work here → [GitHub Repositories](https://github.com/vinithshetty9372?tab=repositories).  
+- 📂 Check out my work here → [GitHub Repositories](https://github.com/ShettyVinith?tab=repositories).  
 - 📬 Reach me at → [vinithshetty9372@gmail.com](mailto:vinithshetty9372@gmail.com).  
 
 ---
