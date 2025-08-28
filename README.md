@@ -20,8 +20,6 @@
 
 ---
 
----
-
 ### 🛠️ Tech Toolbox  
 
 ![C++](https://img.shields.io/badge/C++-00599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
@@ -73,13 +71,12 @@
 
 ---
 
-💻 **Java Developer** | Passionate about Backend Systems & Clean Code
 
 
 ### 🌐 Connect with Me  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/vinith-shetty-0a4307280">
+  <a href="https://www.linkedin.com/in/shettyvinith/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/ShettyVinith">
