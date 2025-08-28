@@ -1,48 +1,70 @@
-<h1 align="center">👋 Hey there, I'm Vinith Shetty</h1>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ShettyVinith&color=brightgreen&style=plastic" alt="Profile views"/>
-</p>
+<h1 align="center">Hi 👋, I'm Vinith Shetty</h1>
+<h3 align="center">B.E CSE @ AIET | Full-Stack & ML Enthusiast | Exploring Blockchain</h3>
 
 <p align="center">
-  <img src="https://camo.githubusercontent.com/4f3203cca1b4b077a3f5b173d85ef905f5873e26f1bece444c3c61585c8ca99b/68747470733a2f2f6d656469612e74656e6f722e636f6d2f476653582d753756474d3441414141432f636f64696e672e676966" width="650"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+🚀;Exploring+Machine+Learning+📊;Interested+in+Blockchain+%26+Cloud+☁️" alt="Typing SVG" />
 </p>
-
-
-## 🚀 Currently Engineering:
-Full-stack applications leveraging modern JavaScript frameworks, scalable backend services, and deploying experimental machine learning models for data-driven insights.
-
-## 🤝 Open to Collaborations:
-Web platform development, AI/ML pipelines, blockchain integrations, and scalable data engineering solutions.
-
-## 🛠️ Seeking Expertise In:
-Optimizing deep learning architectures, backend infrastructure scaling, and efficient database management strategies.
-
-## 📚 Continuous Learning:
-Advanced TypeScript, Next.js patterns, decentralized technologies, and distributed big data systems (Hadoop, Spark).
-
-## 💬 Technical Interests:
-System design, API-first development, containerized deployments, AI model optimization, and real-time data streaming architectures.
-
-## ⚡ Fun Fact:
-Passionate about architecting reliable, scalable systems — and I regularly dive into emerging frameworks and experimental tech stacks!
-
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_vinith_shetty) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shettyvinith/) 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ShettyVinith11) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vinithshetty9372@gmail.com)
-
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=for-the-badge&logo=appwrite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ShettyVinith&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ShettyVinith&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShettyVinith&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ShettyVinith&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🔍 About Me
+
+- 🔭 Building **full-stack applications** and experimenting with **ML models**  
+- 👯 Open to collaborating on **web apps, AI/ML projects, and blockchain-based ideas**  
+- 🤝 Looking to improve in **system design, ML deployment, and scalable backend systems**  
+- 🌱 Currently learning **Next.js, Distributed Systems, and Big Data tools**  
+- 🛠️ Love solving problems and architecting **scalable, efficient solutions**  
+- 👨‍💻 My projects are available here: [GitHub Repositories](https://github.com/ShettyVinith?tab=repositories)  
+- 📄 Want to know more about my journey? [Request my resume](mailto:vinithshetty9372@gmail.com?subject=Requesting%20your%20resume)
+
+---
+
+### 🛠️ Tech Stack  
+
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat&logo=mysql&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=tensorflow&logoColor=white)
+
+---
+
+### 📌 Highlight Projects  
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| [🌱 Crop Recommendation System](https://github.com/ShettyVinith/Crop-Recommendation-System) | ML project recommending the best crop based on soil & environmental data. | Python, Scikit-learn, Pandas, NumPy |
+| [💻 Full-Stack Web App](https://github.com/ShettyVinith) | A MERN app with authentication, real-time features, and clean UI. | MongoDB, Express.js, React, Node.js, TailwindCSS |
+| [⚡ Blockchain Voting System](https://github.com/ShettyVinith) | A secure voting platform built using Solidity & Web3.js. | Solidity, Ethereum, React, Node.js |
+
+---
+
+### 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ShettyVinith&show_icons=true&theme=nightowl" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=ShettyVinith&theme=nightowl" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShettyVinith&layout=compact&theme=nightowl" width="48%" />
+</p>
+
+---
+
+### 🌐 Let's Connect!  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shettyvinith)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/ShettyVinith)  
+[![X](https://img.shields.io/badge/Twitter(X)-000000?style=flat&logo=x&logoColor=white)](https://x.com/ShettyVinith11)  
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:vinithshetty9372@gmail.com)  
+
+---
+
+_“Code, learn, build — repeat.”_
